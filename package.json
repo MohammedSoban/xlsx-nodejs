@@ -22,4 +22,6 @@
     "random-words": "^1.1.1",
     "read-excel-file": "^4.0.6",
     "xlsx": "^0.16.2",
-    "xlsx-sty
+    "xlsx-style": "^0.8.13"
+  }
+}

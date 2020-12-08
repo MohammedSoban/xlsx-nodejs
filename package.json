@@ -15,7 +15,7 @@
     "csv-parser": "^2.3.3",
     "excel4node": "^1.7.2",
     "exceljs": "^4.0.1",
-    "fast-csv": "^4.3.0",
+    "fast-csv": "^4.3.6",
     "fast-xml-parser": "^3.17.4",
     "git": "^0.1.5",
     "node-excel-export": "^1.4.4",

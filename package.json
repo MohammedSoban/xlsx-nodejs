@@ -20,7 +20,7 @@
     "git": "^0.1.5",
     "node-excel-export": "^1.4.4",
     "random-words": "^1.1.1",
-    "read-excel-file": "^4.0.6",
+    "read-excel-file": "^5.5.1",
     "xlsx": "^0.16.2",
     "xlsx-style": "^0.8.13"
   }
